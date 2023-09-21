@@ -5,20 +5,20 @@ In this project, we will be generating data set for a particular Youtube channel
 This repository contains YouTubeAPI.ipynb file.
 
 # Libraries 
--> Pandas
--> Numpy
--> json
--> requests
+-> Pandas <br>
+-> Numpy <br>
+-> json <br>
+-> requests <br>
 
 # Tasks Completed
--> Importing libraries
--> Get an API key
--> Use requests.get() method to make API call
--> Collect data as JSON
--> Parsing response of an API call
--> Save the data as Pandas DataFrame
+-> Importing libraries <br>
+-> Get an API key <br>
+-> Use requests.get() method to make API call <br>
+-> Collect data as JSON <br>
+-> Parsing response of an API call <br>
+-> Save the data as Pandas DataFrame <br>
 
 # References
-https://www.kdnuggets.com/2021/09/python-apis-data-science-project.html
-https://www.slickremix.com/docs/get-api-key-for-youtube/
-https://console.cloud.google.com/apis/library
+https://www.kdnuggets.com/2021/09/python-apis-data-science-project.html    <br>
+https://www.slickremix.com/docs/get-api-key-for-youtube/      <br>
+https://console.cloud.google.com/apis/library           <br>
